@@ -1,17 +1,21 @@
 # NextLevelWeek5 - Rocketseat
 
-### Projeto PlantManager desenvolvido no NLW05.
-### O aplicativo permite criar uma rotina para que as plantas do usuário sejam regadas de acordo com o tempo parametrizado pelo mesmo.
-
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#prerequisitos">Pré Requisitos</a> •  
-</p>
-
 <h4 align="center"> 
 	🚀 NLW05 - PlantManager - Finalizado!  🚧
 </h4>
+
+### Projeto PlantManager desenvolvido no NLW05.
+
+
+<p align="center">
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#features">Features</a> •
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#execucao">Execução do projeto</a> •  
+</p>
+
+### Objetivo
+ ### O aplicativo permite criar uma rotina para que as plantas do usuário sejam regadas de acordo com o tempo parametrizado pelo mesmo.
 
 ### Features
 
