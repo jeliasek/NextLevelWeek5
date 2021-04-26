@@ -15,7 +15,7 @@
 </p>
 
 ### Objetivo
- ### O aplicativo permite criar uma rotina para que as plantas do usuário sejam regadas de acordo com o tempo parametrizado pelo mesmo.
+O aplicativo permite criar uma rotina para que as plantas do usuário sejam regadas de acordo com o tempo parametrizado pelo mesmo.
 
 ### Features
 
